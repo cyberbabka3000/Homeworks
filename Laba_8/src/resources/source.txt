@@ -1,0 +1,5 @@
+Java is a programming language.
+Python is also used for programming.
+Java developers are in high demand.
+C++ is a powerful programming language.
+JavaScript is commonly used for web development.
